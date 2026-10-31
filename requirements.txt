@@ -7,3 +7,4 @@ seaborn
 torch
 streamlit
 joblib
+gradio
