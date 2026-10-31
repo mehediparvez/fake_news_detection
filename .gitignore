@@ -1,0 +1,9 @@
+# Large data (GitHub rejects files >100 MB) - keep in Google Drive / local only
+data/*.csv
+reports/test_predictions*.csv
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
